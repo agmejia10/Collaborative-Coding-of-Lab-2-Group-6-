@@ -12,7 +12,7 @@ To enter to our repository it is necessary to follow the next link: https://gith
 As you can see, in this repository there are some files. Here is the explanation of them: 
 - README.md -> it contains the basic information about the practicum and the access to our personal repositories.
 - collaboratorXXX_story.txt -> partial files that we use in the practicum in order to create our own part of the exercise. 
-- group_history -> the result of the practicum with merged histories.
+- group_story -> the result of the practicum with merged histories.
 - Authors -> it contains the adress of each cgroup component public repository and also the relation of the authors.
 
 
