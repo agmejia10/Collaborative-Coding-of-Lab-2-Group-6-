@@ -4,7 +4,7 @@ This document is to publish the links to the public repositories of each of the 
 
 ## Public repositories
 - Francesca: https://github.com/fraaanxi/francesca
-- Anabel: 
+- Anabel: https://github.com/agmejia10
 - Sergi: 
 
 ## Relation between Authors
