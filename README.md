@@ -15,3 +15,7 @@ As you can see, in this repository there are some files. Here is the explanation
 - group_history -> the result of the practicum with merged histories.
 - Authors -> it contains the adress of each cgroup component public repository and also the relation of the authors.
 
+
+## Annexes
+
+* Francesca's commands with comments: [francesca_commands.pdf](https://github.com/agmejia10/Collaborative-Coding-of-Lab-2-Group-6-/files/9802595/francesca_commands.pdf)
