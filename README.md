@@ -19,5 +19,5 @@ As you can see, in this repository there are some files. Here is the explanation
 ## Annexes
 
 * Francesca's commands with comments: [francesca_commands.pdf](https://github.com/agmejia10/Collaborative-Coding-of-Lab-2-Group-6-/files/9802595/francesca_commands.pdf)
-
 * Anabel's commands with comments: [Anabel's commands.pdf](https://github.com/agmejia10/Collaborative-Coding-of-Lab-2-Group-6-/files/9814003/Anabel.s.commands.pdf)
+* Sergi's commands with comments:
